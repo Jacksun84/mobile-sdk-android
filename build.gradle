@@ -7,7 +7,7 @@ publishing {
         aar(MavenPublication) {
             groupId = "com.jacksun"
             artifactId = "zoom-sdk-android"
-            version = "6.3.10.27979" // exemplo de versão do SDK
+            version = "7.1.6.41900" // exemplo de versão do SDK
 
             artifact("libs/mobilertc.aar")
         }
